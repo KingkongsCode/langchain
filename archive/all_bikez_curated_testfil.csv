@@ -1,0 +1,21 @@
+Brand,Model,Year,Category,Rating,Displacement (ccm),Power (hp),Torque (Nm),Engine cylinder,Engine stroke,Gearbox,Bore (mm),Stroke (mm),Fuel capacity (lts),Fuel system,Fuel control,Cooling system,Transmission type,Dry weight (kg),Wheelbase (mm),Seat height (mm),Front brakes,Rear brakes,Front tire,Rear tire,Front suspension,Rear suspension,Color options
+acabion,da vinci 650-vi,2011,Prototype / concept model,3.2,,804.0,,Electric,Electric,,,,,,,Liquid,Chain,420.0,,,Single disc,Single disc,,,,,
+acabion,gtbo 55,2007,Sport,2.6,1300.0,541.0,420.0,In-line four, four-stroke,6-speed,81.0,63.0,,Turbo. KKK Acabion Extended,,Liquid,,360.0,,,,,,,,,
+acabion,gtbo 600 daytona-vi,2011,Prototype / concept model,3.5,,536.0,,Electric,Electric,,,,,,,Liquid,,420.0,,,Single disc,Single disc,,,,,
+acabion,gtbo 600 daytona-vi,2021,Prototype / concept model,,,536.0,,Electric,Electric,,,,,,,Liquid,,420.0,,,Single disc,Single disc,,,,,
+acabion,gtbo 70,2007,Prototype / concept model,3.1,1300.0,689.0,490.0,In-line four, four-stroke,6-speed,81.0,63.0,,Turbo. KKK Acabion Extended,,Liquid,,300.0,,,,,,,,,Custom made.
+access,37 offroad e-scooter,2021,Scooter,,,1.1,,Electric,Electric,Automatic,,,,,,,Chain,42.0,,750.0,Single disc,Single disc,145/70-6 ,145/70-6 ,,,Black/orange/white
+access,ams 3.20 supercross,2016,ATV,,280.0,18.8,,Single cylinder, four-stroke,Automatic,,,14.0,Carburettor,Overhead Valves (OHV),Air,Chain,225.0,,,Single disc,Single disc,21/7-10 ,20/11-9 ,,,"Black, white"
+access,ams 4.30 supermoto efi,2016,ATV,,359.3,29.5,,Single cylinder, four-stroke,Automatic,,,14.0,Injection. EFI,Overhead Cams (OHC),Air,Chain,236.0,,,Single disc,Single disc,165/70-10 ,225/40-10 ,,,Silver/red/black
+access,ams 4.38 sm gear shift,2016,ATV,,449.0,37.6,,Single cylinder, four-stroke,5-speed,,,14.0,Carburettor,Overhead Cams (OHC),Air,Chain,236.0,,,Single disc,Single disc,165/70-10 ,225/40-10 ,Double A-Arm,,"Black, white"
+access,ams 4.38 sx gear shift,2016,ATV,,449.0,37.6,,Single cylinder, four-stroke,5-speed,,,14.0,Carburettor,Overhead Cams (OHC),Air,Chain,236.0,,,Single disc,Single disc,21/7-10 ,20/11-9 ,Double A-Arm,,"Black, white"
+access,ams 6.46 basic,2016,ATV,,608.0,45.6,,Single cylinder, four-stroke,Automatic,,,21.0,Carburettor,Overhead Cams (OHC),Air,Chain,346.0,,,Single disc,Single disc,25/8-12 ,25/10-12 ,,,"Black, white, red"
+access,ams 6.46 lux,2016,ATV,,608.0,45.6,,Single cylinder, four-stroke,Automatic,,,21.0,Injection. EFI,Overhead Cams (OHC),Air,Chain,346.0,,,Single disc,Single disc,25/8-14 ,25/10-14 ,,,"Black, white, red"
+access,ams 6.46 lux long,2016,ATV,,608.0,45.6,,Single cylinder, four-stroke,Automatic,,,21.0,,Overhead Cams (OHC),Air,Chain,346.0,,,Single disc,Single disc,25/8-14 ,25/10-14 ,,,"Black, white, red"
+access,ams 8.57 lux lv,2016,ATV,3.9,781.0,56.3,,Single cylinder, four-stroke,Automatic,,,21.0,Injection. EFI,Overhead Cams (OHC),Air,Chain,362.0,,,Single disc,Single disc,25/8-14 ,25/10-14 ,,,"Black, white, red"
+access,amx 8.57 efi,2018,ATV,,781.0,57.7,,Single cylinder, four-stroke,Automatic,,,21.0,Injection,Overhead Cams (OHC),Liquid,Chain,344.0,,,Single disc,Single disc,25/8-12 ,25/10-12 ,Independent,Independent,"White, black, red"
+access,minisport 110,2021,ATV,,107.0,6.8,,Single cylinder, four-stroke,Automatic,,,,,,Air,Chain,95.0,,610.0,Single disc,Single disc,,,,,Red/white
+access,shade 200,2021,ATV,,176.0,13.1,,Single cylinder, four-stroke,Automatic,,,,,Overhead Cams (OHC),Air,Chain,201.0,,,Single disc,Single disc,22/7-10 ,22/10-10 ,"Telescopic fork, adjustable","Swing Arm, adjustable",White/Yellow/Black
+access,shade 420,2018,ATV,,359.3,26.8,,Single cylinder, four-stroke,Automatic,,,16.6,,Overhead Cams (OHC),Liquid,Chain,321.0,,,Single disc,Single disc,25/8-12 ,25/10-12 ,,,"White, black"
+access,shade sport 650,2018,ATV,,608.0,45.6,,Single cylinder, four-stroke,Automatic,,,21.0,,Overhead Cams (OHC),Liquid,Chain,334.0,,,Single disc,Single disc,26/8-14 ,26/10-14 ,,,"White, black"
+
